@@ -2,6 +2,6 @@
 title: Home
 process:
     markdown: true
-    twig: false
+    twig: true
 ---
 
