@@ -1,5 +1,6 @@
 ---
 title: Home
+published: true
 ---
 
 # Grav is Running!
